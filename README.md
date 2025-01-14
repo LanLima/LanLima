@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <!--
-**LanLima/LanLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Landeivison/Landeivison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>Hello! I'm Landeivison Lima!</h2>
+<p><em> Analista de Teste | Quality Assurance | QA<a/"></a></em></p>
+
+:mortar_board: Bachelor degree in Information Systems
+
+[![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/jose-landeivison-da-silva-lima-31b32b50/)](https://www.linkedin.com/in/jose-landeivison-da-silva-lima-31b32b50/)
+![GitHub followers](https://img.shields.io/github/followers/Landeivison?label=Follow&style=social)
+
